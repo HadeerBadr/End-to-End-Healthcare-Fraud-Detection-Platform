@@ -309,6 +309,7 @@ Source: Kaggle *Healthcare Provider Fraud Detection Analysis* (`rohitrox/healthc
 Runs inside Google Colab, exposed publicly via ngrok (URL changes per session unless on a paid static-domain plan).
 
 ### n8n Workflow
+![workflow](workflow.png)
 
 Two branches diverging from one decision node:
 
