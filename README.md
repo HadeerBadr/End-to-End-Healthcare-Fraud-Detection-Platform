@@ -309,7 +309,7 @@ Source: Kaggle *Healthcare Provider Fraud Detection Analysis* (`rohitrox/healthc
 Runs inside Google Colab, exposed publicly via ngrok (URL changes per session unless on a paid static-domain plan).
 
 ### n8n Workflow
-![workflow](workflow.png)
+![workflow](workflow.jpeg)
 
 Two branches diverging from one decision node:
 
@@ -350,5 +350,5 @@ Full technical documentation (architecture diagrams, SSIS/DWH screenshots, dbt l
 
 **Amal Abdelmotamed · Shahd Safwat Mohamed · Merna Medhat · Hadeer Badr · Sondos Abdelmoez**
 
-- GitHub (hadeer): [hadeer badr]([https://github.com/Shahdsafwat](https://github.com/HadeerBadr))
-- LinkedIn (hadeer): [hadeer badr]([https://linkedin.com/in/shahd-safwat-mohamed-965213262](https://www.linkedin.com/in/hadeer-badr/))
+- GitHub (hadeer): ![hadeer badr]([https://github.com/Shahdsafwat](https://github.com/HadeerBadr))
+- LinkedIn (hadeer): ![hadeer badr]([https://linkedin.com/in/shahd-safwat-mohamed-965213262](https://www.linkedin.com/in/hadeer-badr/))
