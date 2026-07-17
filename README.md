@@ -346,9 +346,13 @@ Full technical documentation (architecture diagrams, SSIS/DWH screenshots, dbt l
 
 ---
 
-## 👩‍💻 Team
+## 👤 Author
 
-**Amal Abdelmotamed · Shahd Safwat Mohamed · Merna Medhat · Hadeer Badr · Sondos Abdelmoez**
+**Hadeer Badr Hassan**
+*Computer Science Graduate | Data Analyst | Business Intelligence Developer*
 
-- GitHub (hadeer): ![hadeer badr]([https://github.com/Shahdsafwat](https://github.com/HadeerBadr))
-- LinkedIn (hadeer): ![hadeer badr]([https://linkedin.com/in/shahd-safwat-mohamed-965213262](https://www.linkedin.com/in/hadeer-badr/))
+**Areas of Interest:**
+Data Analytics · Business Intelligence · Data Engineering · Data Engineer · Machine Learning
+
+📎 GitHub: [HadeerBadr](https://github.com/HadeerBadr)
+🔗 LinkedIn: [hadeer-badr](https://www.linkedin.com/in/hadeer-badr)
