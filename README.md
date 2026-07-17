@@ -320,6 +320,7 @@ Two branches diverging from one decision node:
 An error-handling sub-workflow notifies the user via Telegram if any node fails. Session state (`chat_id`, step, 12 answers) is stored in an n8n Data Table (`medical_sessions`), enabling multi-user support and resumable conversations.
 
 ### Telegram Bot
+![healthcare_provider_fraud_detection](healthcare_provider_fraud_detection.jpg)
 
 Acts as a conversational form — asks 12 questions one at a time, then returns a formatted fraud probability result (🔴 Potential Fraud Detected / 🟢 No Fraud Indicators Detected). Full round trip: ~2–4 seconds.
 
@@ -348,5 +349,5 @@ Full technical documentation (architecture diagrams, SSIS/DWH screenshots, dbt l
 
 **Amal Abdelmotamed · Shahd Safwat Mohamed · Merna Medhat · Hadeer Badr · Sondos Abdelmoez**
 
-- GitHub (Shahd): [Shahdsafwat](https://github.com/Shahdsafwat)
-- LinkedIn (Shahd): [shahd-safwat-mohamed](https://linkedin.com/in/shahd-safwat-mohamed-965213262)
+- GitHub (hadeer): [hadeer badr]([https://github.com/Shahdsafwat](https://github.com/HadeerBadr))
+- LinkedIn (hadeer): [hadeer badr]([https://linkedin.com/in/shahd-safwat-mohamed-965213262](https://www.linkedin.com/in/hadeer-badr/))
